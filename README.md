@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- <h1>JiuTian (九天) </h1> -->
-<h2 class="papername"> <img src="./assets/et.png" style="vertical-align: middle; height: 1em; padding: 0 0.2em;"> LION-FS: Fast &amp; Slow Video-Language Thinker as Online Video Assistant</h2>
+<h2 class="papername"> <img src="./assets/et.png" style="vertical-align: middle; height: 1em; padding: 0 0.2em;"> CogVLA: Cognition-Aligned Vision-Language-Action Models via Instruction-Driven Routing &amp; Sparsification</h2>
 <div>
 <div>
     <a href="https://orcid.org/0009-0007-7675-3550" target="_blank">Wei Li</a>,
