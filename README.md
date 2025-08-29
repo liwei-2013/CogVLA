@@ -29,7 +29,7 @@ School of Computer Science and Technology, Harbin Institute of Technology, Shenz
 - [08/2025] :fire: [Project page](https://jiutian-vl.github.io/CogVLA-page/) released
 - [08/2025] :fire: [arXiv paper](https://arxiv.org/abs/2508.21046) released.
 
-## :fire: Introduction
+## Introduction
 
 This is the github repository of *CogVLA: Cognition-Aligned Vision-Language-Action Models via Instruction-Driven Routing \& Sparsification*. CogVLA draws inspiration from human multimodal coordination and introduces a 3-stage progressive architecture. 
 
@@ -39,7 +39,33 @@ Extensive experiments on the LIBERO benchmark and real-world robotic tasks demon
 <img src='assets/introduction.png' width='100%'>
 </div>
 
-## :fire: Details will be released. Stay tuned.
+The overall framework of CogVLA is illustrated below.
+
+<div align="center">
+<img src='assets/framework.png' width='100%'>
+</div>
+
+## Experiments
+
+CogVLA achieves state-of-the-art performance with success rates of 97.4\% and 70.0\% on simulation and real-world tasks, respectively.
+
+<div align="center">
+<img src='assets/main-results2.png' width='100%'>
+</div>
+
+CogVLA also reduces training costs by 2.5× and decreases inference latency by 2.8× compared to OpenVLA.
+
+<div align="center">
+<img src='assets/speed_results.png' width='100%'>
+</div>
+
+## Visualization
+
+The attention maps of CogVLA highlight task-relevant regions in the input image, well aligning with human cognition during task execution.
+
+<div align="center">
+<img src='assets/attention.png' width='100%'>
+</div>
 
 ## :fire: Citation
 
