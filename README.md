@@ -20,7 +20,9 @@ School of Computer Science and Technology, Harbin Institute of Technology, Shenz
 
 </div>
 
-## :fire: If you find this work useful for your research, please kindly cite our paper and star our repo.
+<h3 align="center">
+  <strong>🛠️ We're still cooking — Stay tuned!🛠️<br>⭐ Give us a star if you like it! ⭐</strong>
+</h3>
 
 ## :fire: Updates
 
