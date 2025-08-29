@@ -14,7 +14,8 @@
 School of Computer Science and Technology, Harbin Institute of Technology, Shenzhen<br>
 *Corresponding author
 
-
+[![arXiv](https://img.shields.io/badge/arXiv-2508.21046-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2508.21046)
+[![project page](https://img.shields.io/badge/Project-CogVLA-9cf)](https://jiutian-vl.github.io/CogVLA-page/)
 </div>
 
 </div>
@@ -22,6 +23,9 @@ School of Computer Science and Technology, Harbin Institute of Technology, Shenz
 ## :fire: If you find this work useful for your research, please kindly cite our paper and star our repo.
 
 ## :fire: Updates
+
+- [08/2025] :fire: [Project page](https://jiutian-vl.github.io/CogVLA-page/) released
+- [08/2025] :fire: [arXiv paper](https://arxiv.org/abs/2508.21046) released.
 
 ## :fire: Introduction
 
@@ -38,5 +42,14 @@ Extensive experiments on the LIBERO benchmark and real-world robotic tasks demon
 ## :fire: Citation
 
 If you find this work useful for your research, please kindly cite our paper.
+
+```
+@article{li2025cogvla,
+    title={CogVLA: Cognition-Aligned Vision-Language-Action Model via Instruction-Driven Routing & Sparsification}, 
+    author={Wei Li and Renshan Zhang and Rui Shao and Jie He and Liqiang Nie},
+    journal={arXiv preprint arXiv:2508.21046},
+    year={2025},
+}
+```
 
 
