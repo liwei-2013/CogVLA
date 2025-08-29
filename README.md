@@ -47,13 +47,13 @@ The overall framework of CogVLA is illustrated below.
 
 ## Experiments
 
-CogVLA achieves state-of-the-art performance with success rates of 97.4\% and 70.0\% on simulation and real-world tasks, respectively.
+**Performance.** CogVLA achieves state-of-the-art performance with success rates of 97.4\% and 70.0\% on simulation and real-world tasks, respectively.
 
 <div align="center">
 <img src='assets/main-results2.png' width='100%'>
 </div>
 
-CogVLA also reduces training costs by 2.5× and decreases inference latency by 2.8× compared to OpenVLA.
+**Efficiency.** CogVLA also reduces training costs by 2.5× and decreases inference latency by 2.8× compared to OpenVLA.
 
 <div align="center">
 <img src='assets/speed_results.png' width='100%'>
