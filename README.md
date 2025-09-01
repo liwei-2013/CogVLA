@@ -16,13 +16,17 @@ School of Computer Science and Technology, Harbin Institute of Technology, Shenz
 
 [![arXiv](https://img.shields.io/badge/arXiv-2508.21046-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2508.21046)
 [![project page](https://img.shields.io/badge/Project-CogVLA-9cf)](https://jiutian-vl.github.io/CogVLA-page/)
-</div>
-
-</div>
 
 <h3 align="center">
   <strong>🛠️ We're still cooking — Stay tuned!🛠️<br>⭐ Give us a star if you like it! ⭐</strong>
 </h3>
+
+[![Star History Chart](https://api.star-history.com/svg?repos=JiuTian-VL/CogVLA&Date)](https://www.star-history.com/#JiuTian-VL/CogVLA&Date)
+
+</div>
+</div>
+
+
 
 ## :fire: Updates
 
