@@ -18,7 +18,7 @@ School of Computer Science and Technology, Harbin Institute of Technology, Shenz
 [![project page](https://img.shields.io/badge/Project-CogVLA-9cf)](https://jiutian-vl.github.io/CogVLA-page/)
 
 <h3 align="center">
-  <strong>🔥CogVLA is accepted to NeurIPS 2025!🔥<br>🛠️ We're still cooking — Stay tuned!🛠️<br>⭐ Give us a star if you like it! ⭐</strong>
+  <strong>🔥CogVLA is accepted to NeurIPS 2025!🔥<br>⭐ Give us a star if you like it! ⭐</strong>
 </h3>
 
 
@@ -30,8 +30,9 @@ School of Computer Science and Technology, Harbin Institute of Technology, Shenz
 
 ## :fire: Updates
 
+- [09/2025] :fire: Code released. Enjoy it!
 - [09/2025] :fire: CogVLA is accepted to **NeurIPS 2025**!
-- [08/2025] :fire: [Project page](https://jiutian-vl.github.io/CogVLA-page/) released
+- [08/2025] :fire: [Project page](https://jiutian-vl.github.io/CogVLA-page/) released.
 - [08/2025] :fire: [arXiv paper](https://arxiv.org/abs/2508.21046) released.
 
 ## Introduction
@@ -120,8 +121,6 @@ If you find this work useful for your research, please kindly cite our paper.
 ```
 
 [![Star History Chart](https://api.star-history.com/svg?repos=JiuTian-VL/CogVLA&Date)](https://www.star-history.com/#JiuTian-VL/CogVLA&Date)
-
-
 
 
 
